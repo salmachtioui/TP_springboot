@@ -52,12 +52,13 @@ Ce projet vise à simplifier la gestion des étudiants au sein d'une institution
   
   ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/a3c4378d-564e-4118-9ea4-1af9e8561eaa)
   ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/91776c6f-f5c7-4f93-a5c7-5c98348061a5)
-. Avant:
+ . Avant:
 
- ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/fc4b71b7-066f-4fcb-9aea-e5d8745c19b2)
+  ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/fc4b71b7-066f-4fcb-9aea-e5d8745c19b2)
 
-. Après:
-![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/d4c23adc-8311-4ce2-9cb6-512a57dd7314)
+ . Après:
+  ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/d4c23adc-8311-4ce2-9cb6-512a57dd7314)
+ 
 # Affichage des etudiants par filieres :
 -Postman:
 
@@ -66,9 +67,11 @@ Ce projet vise à simplifier la gestion des étudiants au sein d'une institution
  
  ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/b3c6a35a-0612-4f72-a6d3-2503d3df0f60)
 # Affichage des roles  :
+
 -Swaggar :
 
 ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/df434254-c0b8-43f8-b1a9-9fa4a943d320)
+
 -Postman:
 
 ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/02c7b9d9-ee74-4ff7-a16a-686111354f22)
