@@ -20,11 +20,11 @@ Ce projet vise à simplifier la gestion des étudiants au sein d'une institution
    # Affichage des filieres :
 - My Php :
   
-- ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/b2d6d303-a334-4d7a-8977-9b6ec61c983f)
- -Postman:
+ ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/b2d6d303-a334-4d7a-8977-9b6ec61c983f)
+- Postman:
 
   ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/c126fdd5-bb59-4b33-875f-fea026c75489)
- - Swaggar :
+- Swaggar :
   
   ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/516a5cde-9c87-4934-88aa-b38f2186641e)
   # Suppression des filieres:
@@ -58,6 +58,7 @@ Ce projet vise à simplifier la gestion des étudiants au sein d'une institution
   ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/fc4b71b7-066f-4fcb-9aea-e5d8745c19b2)
 
  - Après:
+  
   ![image](https://github.com/salmachtioui/TP_springboot/assets/147477621/d4c23adc-8311-4ce2-9cb6-512a57dd7314)
  
 # Affichage des etudiants par filieres :
